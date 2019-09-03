@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.android.support:support-compat:27.0.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e8b6ee1016de1f0c0c53a34cfb1a4b9c/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e8b6ee1016de1f0c0c53a34cfb1a4b9c/res" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle-5.6.1/caches/transforms-2/files-2.1/720e92815edcdbf337dfc8a11e4b8e54/support-compat-27.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle-5.6.1/caches/transforms-2/files-2.1/720e92815edcdbf337dfc8a11e4b8e54/support-compat-27.0.2/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/27.0.2/80acc64f280831f05960ede2cd87237e8d097ed2/support-compat-27.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle-5.6.1/caches/modules-2/files-2.1/com.android.support/support-compat/27.0.2/80acc64f280831f05960ede2cd87237e8d097ed2/support-compat-27.0.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

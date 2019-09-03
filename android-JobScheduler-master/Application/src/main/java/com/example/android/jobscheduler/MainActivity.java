@@ -50,6 +50,8 @@ import java.util.List;
  * {@link MyJobService} can send messages to this via a {@link Messenger}
  * that is sent in the Intent that starts the Service.
  */
+
+// Nick Huang was here
 public class MainActivity extends Activity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
