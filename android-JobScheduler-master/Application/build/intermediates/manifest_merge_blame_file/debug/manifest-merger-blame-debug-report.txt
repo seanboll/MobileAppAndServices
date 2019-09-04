@@ -19,57 +19,56 @@
 19
 20    <uses-sdk
 21        android:minSdkVersion="21"
-21-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
+21-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml
 22        android:targetSdkVersion="27" />
-22-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
+22-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml
 23
 24    <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
 25
 26    <uses-permission android:name="android.permission.INTERNET" />
-26-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:23:5-67
-26-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:23:22-64
+26-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:23:5-67
+26-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:23:22-64
 27    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-27-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:24:5-81
-27-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:24:22-78
+27-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:24:5-81
+27-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:24:22-78
 28
 29    <application
-29-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:26:5-44:19
+29-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:26:5-44:19
 30        android:debuggable="true"
 31        android:icon="@drawable/ic_launcher"
-31-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:27:9-45
+31-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:27:9-45
 32        android:label="@string/app_name"
-32-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:28:9-41
-33        android:testOnly="true"
-34        android:theme="@style/AppTheme" >
-34-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:29:9-40
-35        <activity
-35-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:30:9-38:20
-36            android:name="com.example.android.jobscheduler.MainActivity"
-36-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:31:13-41
-37            android:label="@string/app_name"
-37-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:32:13-45
-38            android:windowSoftInputMode="stateHidden" >
-38-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:33:13-54
-39            <intent-filter>
-39-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:34:13-37:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:35:17-69
-40-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:35:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:36:17-77
-42-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:36:27-74
-43            </intent-filter>
-44        </activity>
-45
-46        <service
-46-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:40:9-43:38
-47            android:name="com.example.android.jobscheduler.service.MyJobService"
-47-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:41:13-49
-48            android:exported="true"
-48-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:43:13-36
-49            android:permission="android.permission.BIND_JOB_SERVICE" />
-49-->C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:42:13-69
-50    </application>
-51
-52</manifest>
+32-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:28:9-41
+33        android:theme="@style/AppTheme" >
+33-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:29:9-40
+34        <activity
+34-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:30:9-38:20
+35            android:name="com.example.android.jobscheduler.MainActivity"
+35-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:31:13-41
+36            android:label="@string/app_name"
+36-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:32:13-45
+37            android:windowSoftInputMode="stateHidden" >
+37-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:33:13-54
+38            <intent-filter>
+38-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:34:13-37:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:35:17-69
+39-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:35:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:36:17-77
+41-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:36:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <service
+45-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:40:9-43:38
+46            android:name="com.example.android.jobscheduler.service.MyJobService"
+46-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:41:13-49
+47            android:exported="true"
+47-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:43:13-36
+48            android:permission="android.permission.BIND_JOB_SERVICE" />
+48-->/Users/nickhuang1/Desktop/Sean_Application/MobileAppAndServices/android-JobScheduler-master/Application/src/main/AndroidManifest.xml:42:13-69
+49    </application>
+50
+51</manifest>
