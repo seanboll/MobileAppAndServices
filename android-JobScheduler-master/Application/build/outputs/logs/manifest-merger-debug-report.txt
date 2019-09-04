@@ -1,18 +1,18 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:18:1-46:12
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7a421805e172637acd5bf1a483a7bc8\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ee3c2d888a0094c8a5b2cd5b5d559db2\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\233eb49ad4432d32f2953075927de832\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\3ed30546868821e5523c3f5577a1051f\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\c1484377da5c392bb769aec23e233508\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a3c8bd20c6e51b8994c97e8b3d40fca8\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\395a37bc560376f49ea82b9b2b858850\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\5f675a0408211876747dab278d413241\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7ed2d059185ebe8c0a719b586fab9962\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\fcd4a0198c638b54ae652a75fe876882\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7f0b36af874b2a7f329220d1eefc921\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7a5fd87dafd12aa5c4b26f211221d506\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\0d2938cc32153ec5bc7fea770882b154\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
 	package
 		ADDED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml:19:5-47
 	xmlns:android
@@ -63,30 +63,30 @@ uses-sdk
 INJECTED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
 INJECTED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7a421805e172637acd5bf1a483a7bc8\support-v13-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7a421805e172637acd5bf1a483a7bc8\support-v13-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\064ef40ab6020df4fe62f3145b7855bd\support-v4-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\583f4c4ee2752fb896ca344891ed18bb\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\1751590356a59f4e1594bb776040d734\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\54be6cd1dcbd59dbb05cf9890eed4c77\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\4c12951635ba4baa48f5509585c642d7\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\feba490d2840b4b04955d281bf0e7652\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\334897bd683091230adb23f7cf9011f1\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\76d3ac8123584e8efa203c6a48aabf56\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\762d0a892d48c736f82b2442a3c524c9\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\720e92815edcdbf337dfc8a11e4b8e54\support-compat-27.0.2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ed8011cbbf34e0c37179396b3354c64a\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ee3c2d888a0094c8a5b2cd5b5d559db2\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\ee3c2d888a0094c8a5b2cd5b5d559db2\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\233eb49ad4432d32f2953075927de832\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\233eb49ad4432d32f2953075927de832\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\3ed30546868821e5523c3f5577a1051f\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\3ed30546868821e5523c3f5577a1051f\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\c1484377da5c392bb769aec23e233508\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\c1484377da5c392bb769aec23e233508\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a3c8bd20c6e51b8994c97e8b3d40fca8\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a3c8bd20c6e51b8994c97e8b3d40fca8\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\395a37bc560376f49ea82b9b2b858850\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\395a37bc560376f49ea82b9b2b858850\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\5f675a0408211876747dab278d413241\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\5f675a0408211876747dab278d413241\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7ed2d059185ebe8c0a719b586fab9962\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7ed2d059185ebe8c0a719b586fab9962\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\fcd4a0198c638b54ae652a75fe876882\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\fcd4a0198c638b54ae652a75fe876882\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7f0b36af874b2a7f329220d1eefc921\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\a7f0b36af874b2a7f329220d1eefc921\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7a5fd87dafd12aa5c4b26f211221d506\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\7a5fd87dafd12aa5c4b26f211221d506\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\0d2938cc32153ec5bc7fea770882b154\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\vysea\.gradle\caches\transforms-2\files-2.1\0d2938cc32153ec5bc7fea770882b154\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
 INJECTED from C:\Users\vysea\OneDrive\Documents\GitHub\MobileAppAndServices\android-JobScheduler-master\Application\src\main\AndroidManifest.xml
 	android:targetSdkVersion

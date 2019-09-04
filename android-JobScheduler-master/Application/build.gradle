@@ -1,8 +1,8 @@
-
+apply plugin: 'com.google.gms.google-services'
 buildscript {
     repositories {
-        jcenter()
         google()
+        jcenter()
     }
 
     dependencies {

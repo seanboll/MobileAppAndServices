@@ -42,6 +42,9 @@ import com.example.android.jobscheduler.service.MyJobService;
 
 import java.lang.ref.WeakReference;
 import java.util.List;
+//import com.google.firebase.database.DatabaseReference;
+//import com.google.firebase.database.FirebaseDatabase;
+
 
 
 /**
@@ -51,7 +54,7 @@ import java.util.List;
  * that is sent in the Intent that starts the Service.
  */
 public class MainActivity extends Activity {
-
+    //private FirebaseDatabase mref = FirebaseDatabase.getInstance()
     private static final String TAG = MainActivity.class.getSimpleName();
 
     public static final int MSG_UNCOLOR_START = 0;

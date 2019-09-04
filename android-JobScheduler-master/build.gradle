@@ -1,4 +1,15 @@
+buildscript {
+    repositories {
+        google() // must be the first one!!!!
+        jcenter()
+    }
+    dependencies {
+        // Add this line
+        classpath 'com.google.gms:google-services:4.2.0'
+        classpath 'com.android.tools.build:gradle:3.5.0'
 
+    }
+}
 
 
 
